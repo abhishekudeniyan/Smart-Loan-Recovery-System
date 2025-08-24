@@ -5,7 +5,7 @@
 
 ## Smart Loan Recovery System with Machine Learning
 
-This project outlines how to build a smart loan recovery system using Machine Learning, as presented by Aman Kharwal. Loan defaults present a significant challenge for financial institutions, impacting profitability and cash flow. By leveraging historical loan repayment data, borrower profiles, and payment behaviours, this system aims to **optimize collection efforts, minimize recovery costs, and maximize loan repayments**.
+This project outlines how to build a smart loan recovery system using Machine Learning. Loan defaults present a significant challenge for financial institutions, impacting profitability and cash flow. By leveraging historical loan repayment data, borrower profiles, and payment behaviours, this system aims to **optimize collection efforts, minimize recovery costs, and maximize loan repayments**.
 
 ### Dataset Overview
 
